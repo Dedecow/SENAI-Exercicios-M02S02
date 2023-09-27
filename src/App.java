@@ -1,5 +1,10 @@
 public class App public class Main {
-    private String cpf, nome, sobrenome, email, celular, nomeDaMae;
+    private String cpf;
+    private String nome;
+    private String sobrenome;
+    private String email;
+    private String celular;
+    private String nomeDaMae;
 
     //construtor
     public PessoaFisica (String cpf){
